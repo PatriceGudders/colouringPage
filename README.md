@@ -18,7 +18,7 @@ Dit is een eenvoudige webapplicatie waarmee je kleurplaten kunt maken met drie b
 
 ## Voorbeeld
 
-!Voorbeeld [kleurplaat](https://github.com/PatriceGudders/colouring_page/blob/main/kleurplaat/images/screen_kleurplaat.png)
+![Voorbeeld](kleurplaat/images/screen_kleurplaat.png)
 
 ## Aanpassingen en uitbreidingen
 
